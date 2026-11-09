@@ -1,6 +1,7 @@
 # ==========================================
 # OHM'S LAW AND POWER CALCULATOR
 # ND1 Mechatronics Engineering Project
+#Author: Imam Jamal Adewale 
 # ==========================================
 
 # This list stores previous calculations.
